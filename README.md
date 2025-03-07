@@ -10,3 +10,11 @@ This repository exists solely for the purpose of installing MCPs (Master Control
 ## Note
 
 This is a utility repository and contains only essential MCP-related content.
+
+## Running Browser Tools
+
+To run browser tools, use the following command:
+
+```bash
+npx @agentdeskai/browser-tools-server
+```
